@@ -1,0 +1,50 @@
+{
+  "api_key": "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",
+  "monthly_limit": 1000,
+  "usage": {
+    "2026-03": {
+      "total": 38,
+      "searches": [
+        { "date": "2026-03-28", "query": "Vidu AI video generator features", "count": 1 },
+        { "date": "2026-03-28", "query": "MiniMax 海螺视频 AI video generation features", "count": 1 },
+        { "date": "2026-03-28", "query": "豆包 Seedance 字节跳动 video generation keyframe", "count": 1 },
+        { "date": "2026-03-28", "query": "Sora 2 OpenAI video generation features 2024", "count": 1 },
+        { "date": "2026-03-28", "query": "Kling AI 可灵 video generation features", "count": 1 },
+        { "date": "2026-03-28", "query": "Google Veo3 video generation first frame last frame", "count": 1 },
+        { "date": "2026-03-28", "query": "Grok video generation xAI Elon Musk Aurora features", "count": 1 },
+        { "date": "2026-03-28", "query": "Grok Imagine video generation Aurora model specifications", "count": 1 },
+        { "date": "2026-03-28", "query": "海螺AI MiniMax video pricing 收费", "count": 1 },
+        { "date": "2026-03-28", "query": "Runway Gen-3 video generation features pricing", "count": 1 },
+        { "date": "2026-03-28", "query": "Pika Labs AI video generator features pricing", "count": 1 },
+        { "date": "2026-03-28", "query": "Luma Dream Machine AI video generation features", "count": 1 },
+        { "date": "2026-03-28", "query": "Wan2.1 Wan2.6 AI video generation 阿里万卷 features", "count": 1 },
+        { "date": "2026-03-28", "query": "HunyuanVideo Tencent 腾讯混元 video generation features", "count": 1 },
+        { "date": "2026-03-28", "query": "CogVideoX 智谱 video generation open source", "count": 1 },
+        { "date": "2026-03-28", "query": "text to video vs image to video prompt difference", "count": 1 },
+        { "date": "2026-03-28", "query": "first frame last frame video generation prompt technique", "count": 1 },
+        { "date": "2026-03-28", "query": "AI视频提示词 文生视频 图生视频 区别 技巧", "count": 1 },
+        { "date": "2026-03-28", "query": "text to image vs image to image prompt difference", "count": 1 },
+        { "date": "2026-03-28", "query": "Sora prompt writing formula text to video", "count": 1 },
+        { "date": "2026-03-28", "query": "Midjourney prompt formula text to image image to image", "count": 1 },
+        { "date": "2026-03-28", "query": "Kling AI prompt guide official tutorial", "count": 1 },
+        { "date": "2026-03-28", "query": "image to video prompt tips movement camera control", "count": 1 },
+        { "date": "2026-03-28", "query": "文生图 图生图 img2img 提示词区别", "count": 1 },
+        { "date": "2026-03-28", "query": "Veo first frame last frame prompt example transition", "count": 1 }
+      ]
+    }
+  },
+  "remaining": {
+    "2026-03": 962
+  },
+  "notes": [
+    "每月1号重置额度",
+    "每次搜索消耗1次",
+    "搜索优先级：准确第一，优先免费，付费保底",
+    "每次使用Tavily后必须更新此文件"
+  ],
+  "priority": {
+    "1": "DuckDuckGo (web_search) - 免费",
+    "2": "open-webSearch MCP - 免费",
+    "3": "Tavily API - 付费（记录次数）"
+  }
+}

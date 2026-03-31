@@ -1,0 +1,241 @@
+[
+  {
+    "title": "The Future of Version Control",
+    "url": "https://bramcohen.com/p/manyana",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+    "url": "https://github.com/danveloper/flash-moe",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Project Nomad – Knowledge That Never Goes Offline",
+    "url": "https://www.projectnomad.us",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "MAUI Is Coming to Linux",
+    "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Introducing DoorDash Tasks",
+    "url": "https://about.doordash.com/en-us/news/introducing-doordash-tasks",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+    "url": "https://noquiche.fyi/voodoo",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Why I love NixOS",
+    "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Windows native app development is a mess",
+    "url": "https://domenic.me/windows-native-dev/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "🌐 网络生意"
+  },
+  {
+    "title": "Reports of code&#x27;s death are greatly exaggerated",
+    "url": "https://stevekrouse.com/precision",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "More common mistakes to avoid when creating system architecture diagrams",
+    "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "A case against currying",
+    "url": "https://emi-h.com/articles/a-case-against-currying.html",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "A review of dice that came with the white castle",
+    "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Five Years of Running a Systems Reading Group at Microsoft",
+    "url": "https://armaansood.com/posts/systems-reading-group/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Cloudflare flags archive.today as &quot;C&amp;C&#x2F;Botnet&quot;; no longer resolves via 1.1.1.2",
+    "url": "https://radar.cloudflare.com/domains/domain/archive.today",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "25 Years of Eggs",
+    "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Engineering &amp; Development",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "LLMs",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Productivity",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Marketing &amp; Sales",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "🎯 蓝海市场"
+  },
+  {
+    "title": "Design &amp; Creative",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Social &amp; Community",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Finance",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "AI Agents",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Yesterday&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Week&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Month&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Usually Hustling, Occasionally Social",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-23 02:49:27",
+    "category": "💡 其他"
+  }
+]

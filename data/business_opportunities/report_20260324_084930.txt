@@ -1,0 +1,82 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-24 08:49:30
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. Windows 3.1 tiled background .bmp archive
+   潜力: ⭐ 低潜力
+   链接: https://github.com/andreasjansson/win-3.1-backgrounds
+   来源: Hacker News
+
+2. FCC Updates Covered List to Include Foreign-Made Consumer Routers
+   潜力: ⭐ 低潜力
+   链接: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+   来源: Hacker News
+
+3. Autoresearch on an old research idea
+   潜力: ⭐ 低潜力
+   链接: https://ykumar.me/blog/eclip-autoresearch/
+   来源: Hacker News
+
+4. iPhone 17 Pro Demonstrated Running a 400B LLM
+   潜力: ⭐ 低潜力
+   链接: https://twitter.com/anemll/status/2035901335984611412
+   来源: Hacker News
+
+5. Claude Code Cheat Sheet
+   潜力: ⭐ 低潜力
+   链接: https://cc.storyfox.cz
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. Ju Ci: The Art of Repairing Porcelain
+   潜力: ⭐⭐ 中潜力
+   链接: https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/
+   来源: Hacker News
+
+2. Show HN: Cq – Stack Overflow for AI coding agents
+   潜力: ⭐⭐ 中潜力
+   链接: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+   来源: Hacker News
+
+3. Trivy under attack again: Widespread GitHub Actions tag compromise secrets
+   潜力: ⭐⭐ 中潜力
+   链接: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+   来源: Hacker News
+
+4. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🏪 实体生意
+----------------------------------------
+
+1. Local Stack Archived their GitHub repo and requires an account to run
+   潜力: ⭐ 低潜力
+   链接: https://github.com/localstack/localstack
+   来源: Hacker News
+
+🌐 网络生意
+----------------------------------------
+
+1. Dune3d: A parametric 3D CAD application
+   潜力: ⭐ 低潜力
+   链接: https://github.com/dune3d/dune3d
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

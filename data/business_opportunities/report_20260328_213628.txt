@@ -1,0 +1,84 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-28 21:36:28
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. I put all 8,642 Spanish laws in Git – every reform is a commit
+   潜力: ⭐ 低潜力
+   链接: https://github.com/EnriqueLop/legalize-es
+   来源: Hacker News
+
+2. I Built an Open-World Engine for the N64 [video]
+   潜力: ⭐ 低潜力
+   链接: https://www.youtube.com/watch?v=lXxmIw9axWw
+   来源: Hacker News
+
+3. Go hard on agents, not on your filesystem
+   潜力: ⭐ 低潜力
+   链接: https://jai.scs.stanford.edu/
+   来源: Hacker News
+
+4. AMD&#x27;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
+   潜力: ⭐ 低潜力
+   链接: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
+   来源: Hacker News
+
+5. A single-file C allocator with explicit heaps and tuning knobs
+   潜力: ⭐ 低潜力
+   链接: https://github.com/xtellect/spaces
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. Britain today generating 90%+ of electricity from renewables
+   潜力: ⭐⭐ 中潜力
+   链接: https://grid.iamkate.com/
+   来源: Hacker News
+
+2. CERN uses tiny AI models burned into silicon for real-time LHC data filtering
+   潜力: ⭐⭐ 中潜力
+   链接: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering
+   来源: Hacker News
+
+3. Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer
+   潜力: ⭐⭐ 中潜力
+   链接: https://github.com/dbrll/ATTN-11
+   来源: Hacker News
+
+4. Toma (YC W24) is hiring a Senior&#x2F;Staff Eng to build AI automotive coworkers
+   潜力: ⭐⭐ 中潜力
+   链接: https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer
+   来源: Hacker News
+
+5. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🌐 网络生意
+----------------------------------------
+
+1. Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly
+   潜力: ⭐ 低潜力
+   链接: https://github.com/J-x-Z/cocoa-way
+   来源: Hacker News
+
+2. No one is happy with NASA&#x27;s new idea for private space stations
+   潜力: ⭐ 低潜力
+   链接: https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

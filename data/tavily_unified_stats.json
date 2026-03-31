@@ -1,0 +1,35 @@
+{
+  "api_key": "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",
+  "monthly_limit": 1000,
+  "reset_rule": "每月1日自动重置",
+  "note": "4个Bot共用API Key，总计1000次/月",
+  "bots": {
+    "workspace": {
+      "name": "小全的大哥",
+      "role": "总指挥",
+      "usage_file": "data/tavily_usage.json",
+      "total_usage": 61
+    },
+    "workspace-bot2": {
+      "name": "逆袭计划师",
+      "role": "人生逆袭规划",
+      "usage_file": "data/tavily_usage.json",
+      "total_usage": 0
+    },
+    "workspace-lottery": {
+      "name": "彩票分析师",
+      "role": "彩票数据分析",
+      "usage_file": "data/tavily_usage.json",
+      "total_usage": 0
+    },
+    "workspace-technews": {
+      "name": "科技金融哨兵",
+      "role": "科技金融新闻",
+      "usage_file": "data/tavily_usage.json",
+      "total_usage": 2
+    }
+  },
+  "last_updated": "2026-03-28 14:50:36",
+  "total_used": 63,
+  "remaining": 937
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "scene_id": 1,
+    "original_text": "\n 李寻欢手里刻着一块木头，他刻的是一把刀...",
+    "image_prompt": "1boy, black hair, cold eyes, white ancient robes, hanfu, detailed face, masterpiece, best quality, \n 李寻欢手里刻着一块木头，他刻的是一把刀... (action), cinematic lighting, 8k",
+    "video_prompt": "camera pan, dynamic movement, \n 李寻欢手里刻着一块木头，他刻的是一把刀..."
+  },
+  {
+    "scene_id": 2,
+    "original_text": "\n 他的脸色苍白，神情冷漠，仿佛世间万物都与他无关...",
+    "image_prompt": "1boy, black hair, cold eyes, white ancient robes, hanfu, detailed face, masterpiece, best quality, \n 他的脸色苍白，神情冷漠，仿佛世间万物都与他无关... (action), cinematic lighting, 8k",
+    "video_prompt": "camera pan, dynamic movement, \n 他的脸色苍白，神情冷漠，仿佛世间万物都与他无关..."
+  },
+  {
+    "scene_id": 3,
+    "original_text": "\n 风吹过，他的白衣随风飘动，他抬起头，看向远方的夕阳...",
+    "image_prompt": "1boy, black hair, cold eyes, white ancient robes, hanfu, detailed face, masterpiece, best quality, \n 风吹过，他的白衣随风飘动，他抬起头，看向远方的夕阳... (action), cinematic lighting, 8k",
+    "video_prompt": "camera pan, dynamic movement, \n 风吹过，他的白衣随风飘动，他抬起头，看向远方的夕阳..."
+  },
+  {
+    "scene_id": 4,
+    "original_text": "\n 他轻轻叹了口气，手中的刀已刻好，刀锋锋利无比...",
+    "image_prompt": "1boy, black hair, cold eyes, white ancient robes, hanfu, detailed face, masterpiece, best quality, \n 他轻轻叹了口气，手中的刀已刻好，刀锋锋利无比... (action), cinematic lighting, 8k",
+    "video_prompt": "camera pan, dynamic movement, \n 他轻轻叹了口气，手中的刀已刻好，刀锋锋利无比..."
+  },
+  {
+    "scene_id": 5,
+    "original_text": "\n 他站起身，拍了拍身上的尘土，向着远方走去...",
+    "image_prompt": "1boy, black hair, cold eyes, white ancient robes, hanfu, detailed face, masterpiece, best quality, \n 他站起身，拍了拍身上的尘土，向着远方走去... (action), cinematic lighting, 8k",
+    "video_prompt": "camera pan, dynamic movement, \n 他站起身，拍了拍身上的尘土，向着远方走去..."
+  }
+]

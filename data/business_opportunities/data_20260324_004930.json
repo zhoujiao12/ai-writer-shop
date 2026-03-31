@@ -1,0 +1,241 @@
+[
+  {
+    "title": "Is it a pint?",
+    "url": "https://isitapint.com/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "url": "https://twitter.com/anemll/status/2035901335984611412",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
+    "url": "https://github.com/jer-irl/threadprocs",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Bombadil: Property-based testing for web UIs",
+    "url": "https://github.com/antithesishq/bombadil",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "If DSPy is so great, why isn&#x27;t anyone using it?",
+    "url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+    "url": "https://www.cyber.mil/stigs/downloads",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "An unsolicited guide to being a researcher [pdf]",
+    "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Migrating to the EU",
+    "url": "https://rz01.org/eu-migration/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+    "url": "https://indieweb.org/POSSE",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Study: &#x27;Security Fatigue&#x27; May Weaken Digital Defenses",
+    "url": "https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "🌐 网络生意"
+  },
+  {
+    "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+    "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "GitHub appears to be struggling with measly three nines availability",
+    "url": "https://www.theregister.com/2026/02/10/github_outages/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "I built an AI receptionist for a mechanic shop",
+    "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Side-Effectful Expressions in C (2023)",
+    "url": "https://blog.xoria.org/expr-stmt-c/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Walmart: ChatGPT checkout converted 3x worse than website",
+    "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:23",
+    "category": "🌐 网络生意"
+  },
+  {
+    "title": "Engineering &amp; Development",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "LLMs",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Productivity",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Marketing &amp; Sales",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "🎯 蓝海市场"
+  },
+  {
+    "title": "Design &amp; Creative",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Social &amp; Community",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Finance",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "AI Agents",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Yesterday&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Week&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Month&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Usually Hustling, Occasionally Social",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 00:49:29",
+    "category": "💡 其他"
+  }
+]

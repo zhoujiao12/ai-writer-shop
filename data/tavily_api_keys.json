@@ -1,0 +1,35 @@
+{
+  "api_keys": [
+    {
+      "id": 1,
+      "key": "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",
+      "monthly_limit": 1000,
+      "status": "active",
+      "test_date": "2026-03-28",
+      "note": "原有API Key"
+    },
+    {
+      "id": 2,
+      "key": "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",
+      "monthly_limit": 1000,
+      "status": "active",
+      "test_date": "2026-03-28",
+      "test_result": "✅ 可用，返回2条结果",
+      "note": "新增API Key 1"
+    },
+    {
+      "id": 3,
+      "key": "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",
+      "monthly_limit": 1000,
+      "status": "active",
+      "test_date": "2026-03-28",
+      "test_result": "✅ 可用，返回2条结果",
+      "note": "新增API Key 2"
+    }
+  ],
+  "total_monthly_limit": 3000,
+  "usage_strategy": "轮询使用，当一个Key用完切换下一个",
+  "current_active_key": 1,
+  "created": "2026-03-28",
+  "last_updated": "2026-03-28 13:15"
+}

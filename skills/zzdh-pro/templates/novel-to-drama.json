@@ -1,0 +1,164 @@
+{
+  "name": "小说转漫剧完整流程",
+  "version": "1.0.0",
+  "description": "从小说文本到AI漫剧视频的全自动化流程",
+  
+  "steps": [
+    {
+      "id": "parse_novel",
+      "name": "解析小说",
+      "description": "将小说文本解析为分镜结构",
+      "action": "script",
+      "params": {
+        "source": "${novel_path}",
+        "episode_count": "${episodes}",
+        "panels_per_episode": 45
+      },
+      "output": "panels_data"
+    },
+    {
+      "id": "create_project",
+      "name": "创建项目",
+      "description": "在ZZDH中创建新项目",
+      "action": "create-project",
+      "params": {
+        "name": "${project_name}",
+        "type": "script",
+        "content": "${panels_data.summary}"
+      },
+      "output": "project_path"
+    },
+    {
+      "id": "generate_prompts",
+      "name": "生成提示词",
+      "description": "为每个分镜生成图片和视频提示词",
+      "action": "script",
+      "params": {
+        "panels": "${panels_data.panels}",
+        "image_model": "${image_model}",
+        "video_model": "${video_model}",
+        "style": "${style}"
+      },
+      "output": "prompts"
+    },
+    {
+      "id": "update_prompts",
+      "name": "更新提示词",
+      "description": "批量更新所有分镜的提示词",
+      "action": "batch",
+      "params": {
+        "operation": "update-prompt",
+        "data": "${prompts}"
+      },
+      "concurrent": 3
+    },
+    {
+      "id": "generate_images",
+      "name": "生成图片",
+      "description": "批量生成所有分镜的图片",
+      "action": "batch",
+      "params": {
+        "operation": "generate-image",
+        "panels": "${panels_data.panel_ids}",
+        "batch_size": 4
+      },
+      "concurrent": 3,
+      "timeout": 1800000
+    },
+    {
+      "id": "switch_video_mode",
+      "name": "切换视频模式",
+      "description": "切换到视频生成模式",
+      "action": "switch-media-mode",
+      "params": {
+        "mode": "video"
+      }
+    },
+    {
+      "id": "set_keyframes",
+      "name": "设置首尾帧",
+      "description": "为每个分镜设置首帧和尾帧",
+      "action": "batch",
+      "params": {
+        "operation": "set-keyframes",
+        "panels": "${panels_data.panel_ids}",
+        "first_frame": "auto",
+        "end_frame": "auto"
+      }
+    },
+    {
+      "id": "generate_videos",
+      "name": "生成视频",
+      "description": "批量生成所有分镜的视频",
+      "action": "batch",
+      "params": {
+        "operation": "generate-video",
+        "panels": "${panels_data.panel_ids}",
+        "model": "${video_model}"
+      },
+      "concurrent": 2,
+      "timeout": 3600000
+    },
+    {
+      "id": "export_project",
+      "name": "导出项目",
+      "description": "导出最终视频文件",
+      "action": "export",
+      "params": {
+        "format": "mp4",
+        "output_path": "${output_path}"
+      }
+    }
+  ],
+  
+  "variables": {
+    "novel_path": {
+      "type": "string",
+      "required": true,
+      "description": "小说文件路径"
+    },
+    "episodes": {
+      "type": "number",
+      "default": 3,
+      "description": "生成的集数"
+    },
+    "project_name": {
+      "type": "string",
+      "default": "漫剧项目",
+      "description": "项目名称"
+    },
+    "image_model": {
+      "type": "string",
+      "default": "即梦",
+      "description": "图片生成模型"
+    },
+    "video_model": {
+      "type": "string",
+      "default": "kling",
+      "description": "视频生成模型"
+    },
+    "style": {
+      "type": "string",
+      "default": "cinematic",
+      "description": "风格"
+    },
+    "output_path": {
+      "type": "string",
+      "default": "./output",
+      "description": "输出目录"
+    }
+  },
+  
+  "notifications": {
+    "on_start": true,
+    "on_complete": true,
+    "on_error": true,
+    "progress_interval": 300000
+  },
+  
+  "retry": {
+    "max_attempts": 3,
+    "delay": 5000,
+    "backoff": "exponential"
+  }
+}

@@ -1,0 +1,241 @@
+[
+  {
+    "title": "LiteLLM Python package compromised by supply-chain attack",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "No Terms. No Conditions",
+    "url": "https://notermsnoconditions.com",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Hypothesis, Antithesis, Synthesis",
+    "url": "https://antithesis.com/blog/2026/hegel/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+    "url": "https://github.com/t8/hypura",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
+    "url": "https://github.com/wolfssl/wolfguard",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+    "url": "https://nanobrew.trilok.ai/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Testing the Swift C compatibility with Raylib (+WASM)",
+    "url": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+    "url": "https://github.com/ssrajadh/sentrysearch",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Microsoft&#x27;s &quot;Fix&quot; for Windows 11: Flowers After the Beating",
+    "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+    "url": "https://burntsushi.net/ripgrep/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Debunking Zswap and Zram Myths",
+    "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "curl &gt; &#x2F;dev&#x2F;sda: How I made a Linux distro that runs wget | dd",
+    "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+    "url": "https://www.web-rewind.com",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:22",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Engineering &amp; Development",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "LLMs",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Productivity",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Marketing &amp; Sales",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "🎯 蓝海市场"
+  },
+  {
+    "title": "Design &amp; Creative",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Social &amp; Community",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Finance",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "AI Agents",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Yesterday&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Week&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Month&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:25",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Usually Hustling, Occasionally Social",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-25 00:49:28",
+    "category": "💡 其他"
+  }
+]

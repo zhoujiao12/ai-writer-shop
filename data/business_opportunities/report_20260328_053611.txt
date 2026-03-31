@@ -1,0 +1,61 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-28 05:36:11
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. Make macOS consistently bad (unironically)
+   潜力: ⭐ 低潜力
+   链接: https://lr0.org/blog/p/macos/
+   来源: Hacker News
+
+2. Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
+   潜力: ⭐ 低潜力
+   链接: https://github.com/davidmonterocrespo24/velxio
+   来源: Hacker News
+
+3. Slovenia becomes first EU country to introduce fuel rationing
+   潜力: ⭐ 低潜力
+   链接: https://www.bbc.com/news/articles/c77m4zx6zvmo
+   来源: Hacker News
+
+4. Anatomy of the .claude&#x2F; folder
+   潜力: ⭐ 低潜力
+   链接: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+   来源: Hacker News
+
+5. Telnyx package compromised on PyPI
+   潜力: ⭐ 低潜力
+   链接: https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. If you don&#x27;t opt out by Apr 24 GitHub will train on your private repos
+   潜力: ⭐⭐ 中潜力
+   链接: item?id=47548243
+   来源: Hacker News
+
+2. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+3. Building FireStriker: Making Civic Tech Free
+   潜力: ⭐ 低潜力
+   链接: https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

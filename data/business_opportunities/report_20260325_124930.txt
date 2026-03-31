@@ -1,0 +1,74 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-25 12:49:30
+============================================================
+
+
+🤖 科技/AI
+----------------------------------------
+
+1. US Army raises enlistment age to 42 and removes marijuana waiver requirement
+   潜力: ⭐⭐ 中潜力
+   链接: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf
+   来源: Hacker News
+
+2. Flighty Airports
+   潜力: ⭐⭐ 中潜力
+   链接: https://flighty.com/airports
+   来源: Hacker News
+
+3. I wanted to build vertical SaaS for pest control, so I took a technician job
+   潜力: ⭐⭐ 中潜力
+   链接: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
+   来源: Hacker News
+
+4. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+💡 其他
+----------------------------------------
+
+1. Goodbye to Sora
+   潜力: ⭐ 低潜力
+   链接: https://twitter.com/soraofficialapp/status/2036532795984715896
+   来源: Hacker News
+
+2. VitruvianOS – Desktop Linux Inspired by the BeOS
+   潜力: ⭐ 低潜力
+   链接: https://v-os.dev
+   来源: Hacker News
+
+3. Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1
+   潜力: ⭐ 低潜力
+   链接: https://github.com/cigrainger/duckdb-hnsw-acorn
+   来源: Hacker News
+
+4. Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
+   潜力: ⭐ 低潜力
+   链接: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+   来源: Hacker News
+
+5. Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised
+   潜力: ⭐ 低潜力
+   链接: https://github.com/BerriAI/litellm/issues/24512
+   来源: Hacker News
+
+🌐 网络生意
+----------------------------------------
+
+1. Apple Business
+   潜力: ⭐ 低潜力
+   链接: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

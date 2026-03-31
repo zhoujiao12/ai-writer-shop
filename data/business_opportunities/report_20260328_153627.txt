@@ -1,0 +1,56 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-28 15:36:27
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. Go hard on agents, not on your filesystem
+   潜力: ⭐ 低潜力
+   链接: https://jai.scs.stanford.edu/
+   来源: Hacker News
+
+2. AMD&#x27;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
+   潜力: ⭐ 低潜力
+   链接: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
+   来源: Hacker News
+
+3. Make macOS consistently bad unironically
+   潜力: ⭐ 低潜力
+   链接: https://lr0.org/blog/p/macos/
+   来源: Hacker News
+
+4. .apks are just .zips; semi-legally hacking software for orphaned hardware [video]
+   潜力: ⭐ 低潜力
+   链接: https://www.youtube.com/watch?v=P1kfuCkWo24
+   来源: Hacker News
+
+5. The bee that everyone wants to save
+   潜力: ⭐ 低潜力
+   链接: https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. Stop Calling Every AI Miss a Hallucination
+   潜力: ⭐⭐ 中潜力
+   链接: https://ai.gtzilla.com/papers/stop-calling-every-ai-miss-a-hallucination-v1.0/
+   来源: Hacker News
+
+2. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

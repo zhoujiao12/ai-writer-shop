@@ -1,0 +1,19 @@
+{
+  "title": "苏婉音是相府最卑微的庶女，前世被陷害沉塘",
+  "style": "古装",
+  "mood": "悲情",
+  "characterCount": 0,
+  "characters": [],
+  "sceneCount": 5,
+  "totalDuration": 25,
+  "estimatedCost": 7.5,
+  "config": {
+    "imageModel": "flux",
+    "videoModel": "vidu-r2v",
+    "duration": "60",
+    "platform": "douyin",
+    "style": "古装",
+    "projectName": "智能测试"
+  },
+  "createdAt": "2026-03-31T04:51:27.684Z"
+}

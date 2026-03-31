@@ -1,0 +1,545 @@
+{
+  "daily_snapshots": {
+    "番茄_2026-03-21": {
+      "date": "2026-03-21",
+      "platform": "番茄",
+      "total_books": 50,
+      "top_100_genres": {
+        "玄幻": 15,
+        "都市": 10,
+        "系统": 8,
+        "末世": 5,
+        "重生": 12
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "玄幻小说10",
+          "genre": "玄幻",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.391212"
+    },
+    "番茄_2026-03-22": {
+      "date": "2026-03-22",
+      "platform": "番茄",
+      "total_books": 50,
+      "top_100_genres": {
+        "玄幻": 14,
+        "都市": 11,
+        "系统": 9,
+        "末世": 5,
+        "重生": 11
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "玄幻小说10",
+          "genre": "玄幻",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.397278",
+      "changes": {
+        "rising_genres": {
+          "系统": 12.5,
+          "都市": 10.0
+        },
+        "falling_genres": {
+          "玄幻": -6.666666666666667,
+          "重生": -8.333333333333332
+        },
+        "new_top_10": [],
+        "dropped_top_10": []
+      }
+    },
+    "番茄_2026-03-23": {
+      "date": "2026-03-23",
+      "platform": "番茄",
+      "total_books": 51,
+      "top_100_genres": {
+        "玄幻": 13,
+        "都市": 12,
+        "系统": 10,
+        "末世": 6,
+        "重生": 10
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "玄幻小说10",
+          "genre": "玄幻",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.397668",
+      "changes": {
+        "rising_genres": {
+          "系统": 11.11111111111111,
+          "末世": 20.0,
+          "都市": 9.090909090909092
+        },
+        "falling_genres": {
+          "玄幻": -7.142857142857142,
+          "重生": -9.090909090909092
+        },
+        "new_top_10": [],
+        "dropped_top_10": []
+      }
+    },
+    "番茄_2026-03-24": {
+      "date": "2026-03-24",
+      "platform": "番茄",
+      "total_books": 53,
+      "top_100_genres": {
+        "玄幻": 12,
+        "都市": 13,
+        "系统": 12,
+        "末世": 7,
+        "重生": 9
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "玄幻小说10",
+          "genre": "玄幻",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.398528",
+      "changes": {
+        "rising_genres": {
+          "系统": 20.0,
+          "末世": 16.666666666666664,
+          "都市": 8.333333333333332
+        },
+        "falling_genres": {
+          "玄幻": -7.6923076923076925,
+          "重生": -10.0
+        },
+        "new_top_10": [],
+        "dropped_top_10": []
+      }
+    },
+    "番茄_2026-03-25": {
+      "date": "2026-03-25",
+      "platform": "番茄",
+      "total_books": 55,
+      "top_100_genres": {
+        "玄幻": 11,
+        "都市": 14,
+        "系统": 14,
+        "末世": 8,
+        "重生": 8
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "玄幻小说10",
+          "genre": "玄幻",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.399417",
+      "changes": {
+        "rising_genres": {
+          "系统": 16.666666666666664,
+          "末世": 14.285714285714285,
+          "都市": 7.6923076923076925
+        },
+        "falling_genres": {
+          "玄幻": -8.333333333333332,
+          "重生": -11.11111111111111
+        },
+        "new_top_10": [],
+        "dropped_top_10": []
+      }
+    },
+    "番茄_2026-03-26": {
+      "date": "2026-03-26",
+      "platform": "番茄",
+      "total_books": 57,
+      "top_100_genres": {
+        "玄幻": 10,
+        "都市": 15,
+        "系统": 16,
+        "末世": 9,
+        "重生": 7
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "玄幻小说10",
+          "genre": "玄幻",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.400297",
+      "changes": {
+        "rising_genres": {
+          "系统": 14.285714285714285,
+          "末世": 12.5,
+          "都市": 7.142857142857142
+        },
+        "falling_genres": {
+          "玄幻": -9.090909090909092,
+          "重生": -12.5
+        },
+        "new_top_10": [],
+        "dropped_top_10": []
+      }
+    },
+    "番茄_2026-03-27": {
+      "date": "2026-03-27",
+      "platform": "番茄",
+      "total_books": 59,
+      "top_100_genres": {
+        "玄幻": 9,
+        "都市": 16,
+        "系统": 18,
+        "末世": 10,
+        "重生": 6
+      },
+      "top_10": [
+        {
+          "title": "玄幻小说1",
+          "genre": "玄幻",
+          "ranking": 1
+        },
+        {
+          "title": "玄幻小说2",
+          "genre": "玄幻",
+          "ranking": 2
+        },
+        {
+          "title": "玄幻小说3",
+          "genre": "玄幻",
+          "ranking": 3
+        },
+        {
+          "title": "玄幻小说4",
+          "genre": "玄幻",
+          "ranking": 4
+        },
+        {
+          "title": "玄幻小说5",
+          "genre": "玄幻",
+          "ranking": 5
+        },
+        {
+          "title": "玄幻小说6",
+          "genre": "玄幻",
+          "ranking": 6
+        },
+        {
+          "title": "玄幻小说7",
+          "genre": "玄幻",
+          "ranking": 7
+        },
+        {
+          "title": "玄幻小说8",
+          "genre": "玄幻",
+          "ranking": 8
+        },
+        {
+          "title": "玄幻小说9",
+          "genre": "玄幻",
+          "ranking": 9
+        },
+        {
+          "title": "都市小说10",
+          "genre": "都市",
+          "ranking": 10
+        }
+      ],
+      "recorded_at": "2026-03-27T01:12:55.401267",
+      "changes": {
+        "rising_genres": {
+          "系统": 12.5,
+          "末世": 11.11111111111111,
+          "都市": 6.666666666666667
+        },
+        "falling_genres": {
+          "玄幻": -10.0,
+          "重生": -14.285714285714285
+        },
+        "new_top_10": [
+          "都市小说10"
+        ],
+        "dropped_top_10": [
+          "玄幻小说10"
+        ]
+      }
+    }
+  },
+  "trend_alerts": [],
+  "metadata": {
+    "created_at": "2026-03-27T01:12:55.391016",
+    "last_updated": "2026-03-27T01:12:55.401312"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "version":  "2.1.0",
+    "license":  "MIT",
+    "keywords":  [
+                     "openclaw",
+                     "skill",
+                     "zzdh",
+                     "ai-video",
+                     "websocket"
+                 ],
+    "type":  "module",
+    "name":  "zzdh-control-skill",
+    "description":  "OpenClaw Skill - ZZDH Control via WebSocket (zero dependencies, Node.js \u003e= 21)",
+    "engines":  {
+                    "node":  "\u003e=21.0.0"
+                },
+    "main":  "zzdh-cli.js"
+}

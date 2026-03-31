@@ -1,0 +1,241 @@
+[
+  {
+    "title": "LiteLLM Python package compromised by supply-chain attack",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Microsoft&#x27;s &quot;Fix&quot; for Windows 11: Flowers After the Beating",
+    "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Debunking Zswap and Zram Myths",
+    "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "So where are all the AI apps?",
+    "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+    "url": "https://nanobrew.trilok.ai/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+    "url": "https://burntsushi.net/ripgrep/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "curl &gt; &#x2F;dev&#x2F;sda: How I made a Linux distro that runs wget | dd",
+    "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+    "url": "https://www.web-rewind.com",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "The bridge to wealth is being pulled up with AI",
+    "url": "https://danielhomola.com/m%20&amp;%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+    "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "🌐 网络生意"
+  },
+  {
+    "title": "Log File Viewer for the Terminal",
+    "url": "https://lnav.org/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "MSA: Memory Sparse Attention",
+    "url": "https://github.com/EverMind-AI/MSA",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "NanoClaw Adopts OneCLI Agent Vault",
+    "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "url": "https://twitter.com/anemll/status/2035901335984611412",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:43",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Engineering &amp; Development",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "LLMs",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Productivity",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Marketing &amp; Sales",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "🎯 蓝海市场"
+  },
+  {
+    "title": "Design &amp; Creative",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Social &amp; Community",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Finance",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "AI Agents",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Yesterday&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Week&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Month&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:50",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Usually Hustling, Occasionally Social",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-24 23:14:52",
+    "category": "💡 其他"
+  }
+]

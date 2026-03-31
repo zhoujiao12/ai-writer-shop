@@ -1,0 +1,64 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-23 22:49:37
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. Bombadil: Property-based testing for web UIs by Antithesis
+   潜力: ⭐ 低潜力
+   链接: https://github.com/antithesishq/bombadil
+   来源: Hacker News
+
+2. Migrating to the EU
+   潜力: ⭐ 低潜力
+   链接: https://rz01.org/eu-migration/
+   来源: Hacker News
+
+3. POSSE – Publish on your Own Site, Syndicate Elsewhere
+   潜力: ⭐ 低潜力
+   链接: https://indieweb.org/POSSE
+   来源: Hacker News
+
+4. PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+   潜力: ⭐ 低潜力
+   链接: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
+   来源: Hacker News
+
+5. An Unsolicited Guide to Being a Researcher [pdf]
+   潜力: ⭐ 低潜力
+   链接: https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. GitHub appears to be struggling with measly three nines availability
+   潜力: ⭐⭐ 中潜力
+   链接: https://www.theregister.com/2026/02/10/github_outages/
+   来源: Hacker News
+
+2. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🌐 网络生意
+----------------------------------------
+
+1. Attractive students no longer receive better results as classes moved online
+   潜力: ⭐ 低潜力
+   链接: https://www.sciencedirect.com/science/article/pii/S016517652200283X
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

@@ -1,0 +1,61 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-22 22:49:28
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. Bored of eating your own dogfood? Try smelling your own farts
+   潜力: ⭐ 低潜力
+   链接: https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/
+   来源: Hacker News
+
+2. Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM
+   潜力: ⭐ 低潜力
+   链接: https://github.com/danveloper/flash-moe
+   来源: Hacker News
+
+3. Building an FPGA 3dfx Voodoo with Modern RTL Tools
+   潜力: ⭐ 低潜力
+   链接: https://noquiche.fyi/voodoo
+   来源: Hacker News
+
+4. Project Nomad – Knowledge That Never Goes Offline
+   潜力: ⭐ 低潜力
+   链接: https://www.projectnomad.us
+   来源: Hacker News
+
+5. Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days
+   潜力: ⭐ 低潜力
+   链接: http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. A Case Against Currying
+   潜力: ⭐⭐ 中潜力
+   链接: https://emi-h.com/articles/a-case-against-currying.html
+   来源: Hacker News
+
+2. Revise – An AI Editor for Documents
+   潜力: ⭐⭐ 中潜力
+   链接: https://revise.io
+   来源: Hacker News
+
+3. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

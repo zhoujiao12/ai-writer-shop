@@ -1,0 +1,160 @@
+{
+  "books": {
+    "2129267c96f8": {
+      "title": "重生之都市仙尊",
+      "author": "七月雪",
+      "platform": "番茄",
+      "genre": "都市修仙",
+      "word_count": 3500000,
+      "read_count": 50000000,
+      "rating": 9.2,
+      "ranking": 1,
+      "opening_pattern": "重生复仇型",
+      "conflict_type": "S级-生死存亡",
+      "opening_text": "前世，他被未婚妻和兄弟联手害死，家破人亡。重生回十年前，他发誓要让所有人付出代价。",
+      "gold_finger": "修仙记忆",
+      "tags": [
+        "重生",
+        "修仙",
+        "复仇",
+        "都市"
+      ],
+      "id": "2129267c96f8",
+      "added_at": "2026-03-27T01:11:47.454772",
+      "sub_genre": "",
+      "status": "连载中",
+      "protagonist_gender": "男",
+      "target_audience": "男频",
+      "success_metrics": {},
+      "crawl_date": "2026-03-27T01:11:47.454781"
+    },
+    "2968222ff5fc": {
+      "title": "我的绝色总裁未婚妻",
+      "author": "花都大少",
+      "platform": "七猫",
+      "genre": "都市异能",
+      "word_count": 2800000,
+      "read_count": 35000000,
+      "rating": 8.8,
+      "ranking": 5,
+      "opening_pattern": "身份反差型",
+      "conflict_type": "A级-身份落差",
+      "opening_text": "所有人都以为他是个废物，直到那天，百辆豪车停在门口，千亿身价曝光。",
+      "gold_finger": "隐藏身份",
+      "tags": [
+        "总裁",
+        "打脸",
+        "都市",
+        "身份反转"
+      ],
+      "id": "2968222ff5fc",
+      "added_at": "2026-03-27T01:11:47.454985",
+      "sub_genre": "",
+      "status": "连载中",
+      "protagonist_gender": "男",
+      "target_audience": "男频",
+      "success_metrics": {},
+      "crawl_date": "2026-03-27T01:11:47.454990"
+    },
+    "204b7c16874a": {
+      "title": "末世：我有一座避难所",
+      "author": "寒山夜",
+      "platform": "番茄",
+      "genre": "末世求生",
+      "word_count": 1200000,
+      "read_count": 28000000,
+      "rating": 9.0,
+      "ranking": 3,
+      "opening_pattern": "极端困境型",
+      "conflict_type": "S级-生死存亡",
+      "opening_text": "末世降临前3小时，他重生了。上一世被邻居推进丧尸群，这一次，他要活到最后。",
+      "gold_finger": "避难所系统",
+      "tags": [
+        "末世",
+        "重生",
+        "系统",
+        "求生"
+      ],
+      "id": "204b7c16874a",
+      "added_at": "2026-03-27T01:11:47.455180",
+      "sub_genre": "",
+      "status": "连载中",
+      "protagonist_gender": "男",
+      "target_audience": "男频",
+      "success_metrics": {},
+      "crawl_date": "2026-03-27T01:11:47.455185"
+    },
+    "93fd72ecf6a4": {
+      "title": "开局签到荒古圣体",
+      "author": "一剑清新",
+      "platform": "起点",
+      "genre": "玄幻系统",
+      "word_count": 4500000,
+      "read_count": 62000000,
+      "rating": 9.5,
+      "ranking": 1,
+      "opening_pattern": "系统觉醒型",
+      "conflict_type": "B级-身份落差",
+      "opening_text": "穿越异界，开局签到获得荒古圣体，从此踏上无敌之路。",
+      "gold_finger": "签到系统",
+      "tags": [
+        "系统",
+        "玄幻",
+        "签到",
+        "无敌"
+      ],
+      "id": "93fd72ecf6a4",
+      "added_at": "2026-03-27T01:11:47.455597",
+      "sub_genre": "",
+      "status": "连载中",
+      "protagonist_gender": "男",
+      "target_audience": "男频",
+      "success_metrics": {},
+      "crawl_date": "2026-03-27T01:11:47.455605"
+    },
+    "1be826f1a484": {
+      "title": "离婚后，前妻跪求复合",
+      "author": "秋风起",
+      "platform": "番茄",
+      "genre": "都市情感",
+      "word_count": 980000,
+      "read_count": 18000000,
+      "rating": 8.5,
+      "ranking": 8,
+      "opening_pattern": "数字冲击型",
+      "conflict_type": "A级-情感背叛",
+      "opening_text": "5年婚姻，换来一句'我们不合适'。签完离婚协议，他转身离开，她却后悔了。",
+      "gold_finger": "隐藏身份",
+      "tags": [
+        "离婚",
+        "复仇",
+        "都市",
+        "情感"
+      ],
+      "id": "1be826f1a484",
+      "added_at": "2026-03-27T01:11:47.456064",
+      "sub_genre": "",
+      "status": "连载中",
+      "protagonist_gender": "男",
+      "target_audience": "男频",
+      "success_metrics": {},
+      "crawl_date": "2026-03-27T01:11:47.456072"
+    }
+  },
+  "analysis": {
+    "genre_stats": {},
+    "opening_patterns": [],
+    "conflict_types": {},
+    "successful_formulas": []
+  },
+  "metadata": {
+    "created_at": "2026-03-27T01:11:47.454409",
+    "last_updated": "2026-03-27T01:11:47.456077",
+    "total_books": 5,
+    "platforms": {
+      "番茄": 3,
+      "七猫": 1,
+      "起点": 1
+    }
+  }
+}

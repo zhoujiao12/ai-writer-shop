@@ -1,0 +1,23 @@
+# 正确的代理配置（2026-03-28修复）
+# Clash/代理软件监听端口
+PROXY_HOST="127.0.0.1"
+PROXY_PORT="7899"
+
+# 代理设置
+export http_proxy="http://$PROXY_HOST:$PROXY_PORT"
+export https_proxy="http://$PROXY_HOST:$PROXY_PORT"
+export HTTP_PROXY="http://$PROXY_HOST:$PROXY_PORT"
+export HTTPS_PROXY="http://$PROXY_HOST:$PROXY_PORT"
+export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
+
+# Git代理
+git config --global http.proxy http://$PROXY_HOST:$PROXY_PORT
+git config --global https.proxy http://$PROXY_HOST:$PROXY_PORT
+
+# 历史记录（已废弃）
+# WIN_HOST="192.168.0.100" - 不正确
+# CLASH_PORT="7897" - 不正确
+
+# === API Keys ===
+# Tavily Search API（每月1000次免费）
+export TAVILY_API_KEY="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"

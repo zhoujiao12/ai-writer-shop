@@ -1,0 +1,61 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-28 09:36:10
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. Make macOS consistently bad (unironically)
+   潜力: ⭐ 低潜力
+   链接: https://lr0.org/blog/p/macos/
+   来源: Hacker News
+
+2. Improving Composer through real-time RL
+   潜力: ⭐ 低潜力
+   链接: https://cursor.com/blog/real-time-rl-for-composer
+   来源: Hacker News
+
+3. Show HN: Twitch Roulette – Find live streamers who need views the most
+   潜力: ⭐ 低潜力
+   链接: https://twitchroulette.net/
+   来源: Hacker News
+
+4. Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
+   潜力: ⭐ 低潜力
+   链接: https://github.com/davidmonterocrespo24/velxio
+   来源: Hacker News
+
+5. ISBN Visualization
+   潜力: ⭐ 低潜力
+   链接: https://annas-archive.gd/isbn-visualization?
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. DOJ confirms FBI Director Kash Patel&#x27;s personal email was hacked
+   潜力: ⭐⭐ 中潜力
+   链接: https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/
+   来源: Hacker News
+
+2. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+3. Building FireStriker: Making Civic Tech Free
+   潜力: ⭐ 低潜力
+   链接: https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

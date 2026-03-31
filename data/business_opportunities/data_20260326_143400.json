@@ -1,0 +1,61 @@
+{
+  "report_time": "2026-03-26T14:34:00",
+  "total_opportunities": 18,
+  "categories": {
+    "tech_ai": 5,
+    "blue_ocean": 6,
+    "online_business": 3,
+    "passive_income": 4
+  },
+  "top_opportunities": [
+    {
+      "rank": 1,
+      "title": "AI本地线索生成网站",
+      "potential": "高潜力",
+      "monthly_income": "$500-$2000/网站",
+      "time_investment": "10小时/月",
+      "category": "科技/AI"
+    },
+    {
+      "rank": 2,
+      "title": "微移动电池回收与二次利用",
+      "potential": "高潜力",
+      "market_size": "$200亿(2030)",
+      "cagr": "12%",
+      "category": "冷门赛道"
+    },
+    {
+      "rank": 3,
+      "title": "昆虫蛋白宠物保健品",
+      "potential": "高潜力",
+      "market_size": "$42亿(2031)",
+      "cagr": "11%",
+      "category": "冷门赛道"
+    },
+    {
+      "rank": 4,
+      "title": "神经多样性远程治疗平台",
+      "potential": "高潜力",
+      "market_size": "$110-150亿",
+      "category": "冷门赛道"
+    },
+    {
+      "rank": 5,
+      "title": "中型工厂数字孪生工具包",
+      "potential": "高潜力",
+      "market_size": "$130-360亿(2024-2030)",
+      "category": "冷门赛道"
+    }
+  ],
+  "sources": [
+    "marksinsights.com",
+    "incbook.com",
+    "forbes.com",
+    "sidequesthustle.com",
+    "trueprofit.io",
+    "alidropship.com",
+    "dropified.com"
+  ],
+  "proxy_status": "unavailable",
+  "note": "使用OpenClaw内置web_search获取数据，原脚本代理不可用"
+}

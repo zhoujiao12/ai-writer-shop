@@ -1,0 +1,74 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-22 11:58:03
+============================================================
+
+
+💡 其他
+----------------------------------------
+
+1. The Three Pillars of JavaScript Bloat
+   潜力: ⭐ 低潜力
+   链接: https://43081j.com/2026/03/three-pillars-of-javascript-bloat
+   来源: Hacker News
+
+2. Chest Fridge (2009)
+   潜力: ⭐ 低潜力
+   链接: https://mtbest.net/chest-fridge/
+   来源: Hacker News
+
+3. Some things just take time
+   潜力: ⭐ 低潜力
+   链接: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+   来源: Hacker News
+
+4. Professional video editing, right in the browser with WebGPU and WASM
+   潜力: ⭐ 低潜力
+   链接: https://tooscut.app/
+   来源: Hacker News
+
+5. Boomloom: Think with your hands
+   潜力: ⭐ 低潜力
+   链接: https://www.theboomloom.com
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. Tinybox – Offline AI device 120B parameters
+   潜力: ⭐⭐ 中潜力
+   链接: https://tinygrad.org/#tinybox
+   来源: Hacker News
+
+2. Trivy ecosystem supply chain briefly compromised
+   潜力: ⭐⭐ 中潜力
+   链接: https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23
+   来源: Hacker News
+
+3. The Impact of AI on Game Dev Jobs. Open to Work Crisis
+   潜力: ⭐⭐ 中潜力
+   链接: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922
+   来源: Hacker News
+
+4. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🏪 实体生意
+----------------------------------------
+
+1. Floci – A free, open-source local AWS emulator
+   潜力: ⭐ 低潜力
+   链接: https://github.com/hectorvent/floci
+   来源: Hacker News
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================

@@ -1,0 +1,241 @@
+[
+  {
+    "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+    "url": "https://github.com/EnriqueLop/legalize-es",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Britain today generating 90%+ of electricity from renewables",
+    "url": "https://grid.iamkate.com/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "I Built an Open-World Engine for the N64 [video]",
+    "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+    "url": "https://github.com/J-x-Z/cocoa-way",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "🌐 网络生意"
+  },
+  {
+    "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Go hard on agents, not on your filesystem",
+    "url": "https://jai.scs.stanford.edu/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "AMD&#x27;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+    "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+    "url": "https://github.com/dbrll/ATTN-11",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Toma (YC W24) is hiring a Senior&#x2F;Staff Eng to build AI automotive coworkers",
+    "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "A single-file C allocator with explicit heaps and tuning knobs",
+    "url": "https://github.com/xtellect/spaces",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Make macOS consistently bad unironically",
+    "url": "https://lr0.org/blog/p/macos/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "The bee that everyone wants to save",
+    "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Go Naming Conventions: A Practical Guide",
+    "url": "https://www.alexedwards.net/blog/go-naming-conventions",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+    "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "💡 其他"
+  },
+  {
+    "title": "No one is happy with NASA&#x27;s new idea for private space stations",
+    "url": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+    "source": "Hacker News",
+    "type": "tech",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:20",
+    "category": "🌐 网络生意"
+  },
+  {
+    "title": "Engineering &amp; Development",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "LLMs",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Productivity",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Marketing &amp; Sales",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "🎯 蓝海市场"
+  },
+  {
+    "title": "Design &amp; Creative",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Social &amp; Community",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Finance",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "AI Agents",
+    "url": "",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐⭐ 中潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "🤖 科技/AI"
+  },
+  {
+    "title": "Yesterday&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Week&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Last Month&#x27;s Top Products",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:24",
+    "category": "💡 其他"
+  },
+  {
+    "title": "Usually Hustling, Occasionally Social",
+    "source": "Web",
+    "type": "article",
+    "potential": "⭐ 低潜力",
+    "fetch_time": "2026-03-28 21:36:27",
+    "category": "💡 其他"
+  }
+]

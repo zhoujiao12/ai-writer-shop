@@ -1,0 +1,84 @@
+============================================================
+📊 商业机会研究报告
+📅 时间: 2026-03-25 04:49:28
+============================================================
+
+
+🌐 网络生意
+----------------------------------------
+
+1. Apple Business
+   潜力: ⭐ 低潜力
+   链接: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+   来源: Hacker News
+
+2. Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon
+   潜力: ⭐ 低潜力
+   链接: https://github.com/t8/hypura
+   来源: Hacker News
+
+💡 其他
+----------------------------------------
+
+1. Arm AGI CPU
+   潜力: ⭐ 低潜力
+   链接: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
+   来源: Hacker News
+
+2. Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised
+   潜力: ⭐ 低潜力
+   链接: https://github.com/BerriAI/litellm/issues/24512
+   来源: Hacker News
+
+3. ARM AGI CPU: Specs and SKUs
+   潜力: ⭐ 低潜力
+   链接: https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/
+   来源: Hacker News
+
+4. Hypothesis, Antithesis, synthesis
+   潜力: ⭐ 低潜力
+   链接: https://antithesis.com/blog/2026/hegel/
+   来源: Hacker News
+
+5. Welcome to FastMCP
+   潜力: ⭐ 低潜力
+   链接: https://gofastmcp.com/getting-started/welcome
+   来源: Hacker News
+
+🤖 科技/AI
+----------------------------------------
+
+1. Is anybody else bored of talking about AI?
+   潜力: ⭐⭐ 中潜力
+   链接: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+   来源: Hacker News
+
+2. Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains
+   潜力: ⭐⭐ 中潜力
+   链接: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
+   来源: Hacker News
+
+3. Show HN: Email.md – Markdown to responsive, email-safe HTML
+   潜力: ⭐⭐ 中潜力
+   链接: https://www.emailmd.dev/
+   来源: Hacker News
+
+4. GitHub is once again down
+   潜力: ⭐⭐ 中潜力
+   链接: https://www.githubstatus.com/incidents/kp06czybl7dw
+   来源: Hacker News
+
+5. AI Agents
+   潜力: ⭐⭐ 中潜力
+   来源: Web
+
+🎯 蓝海市场
+----------------------------------------
+
+1. Marketing &amp; Sales
+   潜力: ⭐ 低潜力
+   来源: Web
+
+============================================================
+📈 总计发现: 27 个商业机会
+============================================================
