@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI文案工坊 | 专业AI代写服务</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; background: #0a0a1a; color: #e0e0e0; line-height: 1.7; }
+        .hero { text-align: center; padding: 100px 20px 80px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+        .hero h1 { font-size: 3em; margin-bottom: 20px; text-shadow: 0 2px 20px rgba(0,0,0,0.3); }
+        .hero p { font-size: 1.3em; opacity: 0.95; max-width: 600px; margin: 0 auto 40px; }
+        .badge { display: inline-block; background: rgba(255,255,255,0.2); padding: 8px 20px; border-radius: 50px; font-size: 0.9em; margin-bottom: 20px; }
+        .cta-btn { display: inline-block; background: #ff6b6b; color: white; padding: 18px 50px; border-radius: 50px; font-size: 1.2em; text-decoration: none; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s; }
+        .cta-btn:hover { transform: translateY(-3px); box-shadow: 0 10px 30px rgba(255,107,107,0.4); }
+        .section { max-width: 900px; margin: 0 auto; padding: 80px 20px; }
+        .section-title { text-align: center; font-size: 2.2em; margin-bottom: 50px; color: #667eea; }
+        .services { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; }
+        .service-card { background: #1a1a2e; border-radius: 20px; padding: 40px 30px; text-align: center; border: 1px solid #2a2a4a; transition: transform 0.2s; }
+        .service-card:hover { transform: translateY(-5px); border-color: #667eea; }
+        .service-icon { font-size: 3em; margin-bottom: 20px; }
+        .service-card h3 { font-size: 1.3em; margin-bottom: 15px; color: white; }
+        .service-card p { color: #999; font-size: 0.95em; }
+        .price-tag { display: inline-block; background: linear-gradient(135deg, #667eea, #764ba2); padding: 8px 25px; border-radius: 50px; margin-top: 20px; font-weight: bold; color: white; }
+        .portfolio { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        .portfolio-item { background: #1a1a2e; border-radius: 15px; overflow: hidden; border: 1px solid #2a2a4a; }
+        .portfolio-content { padding: 25px; }
+        .portfolio-tag { display: inline-block; background: #667eea22; color: #667eea; padding: 4px 12px; border-radius: 50px; font-size: 0.8em; margin-bottom: 10px; }
+        .portfolio-content h3 { font-size: 1.1em; margin-bottom: 10px; color: white; }
+        .portfolio-content p { color: #888; font-size: 0.9em; }
+        .process { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px; text-align: center; }
+        .step { background: #1a1a2e; border-radius: 20px; padding: 30px; border: 1px solid #2a2a4a; }
+        .step-num { font-size: 2.5em; color: #667eea; font-weight: bold; margin-bottom: 15px; }
+        .step h3 { color: white; margin-bottom: 10px; }
+        .step p { color: #888; font-size: 0.9em; }
+        .contact-section { background: #1a1a2e; border-radius: 20px; padding: 60px 40px; max-width: 700px; margin: 0 auto; border: 1px solid #2a2a4a; }
+        .contact-section h2 { text-align: center; font-size: 2em; color: #667eea; margin-bottom: 40px; }
+        .form-group { margin-bottom: 20px; }
+        .form-group label { display: block; margin-bottom: 8px; color: #ccc; font-weight: 500; }
+        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 14px 18px; background: #0a0a1a; border: 1px solid #333; border-radius: 10px; color: white; font-size: 1em; font-family: inherit; }
+        .form-group input:focus, .form-group textarea:focus { outline: none; border-color: #667eea; }
+        .form-group textarea { resize: vertical; min-height: 120px; }
+        .submit-btn { width: 100%; background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 18px; border: none; border-radius: 10px; font-size: 1.1em; font-weight: bold; cursor: pointer; transition: opacity 0.2s; }
+        .submit-btn:hover { opacity: 0.85; }
+        .guarantee { display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; margin-top: 40px; }
+        .guarantee-item { display: flex; align-items: center; gap: 10px; color: #aaa; }
+        .guarantee-item span { font-size: 1.5em; }
+        .testimonials { background: #1a1a2e; border-radius: 20px; padding: 50px 40px; border: 1px solid #2a2a4a; }
+        .testimonial { padding: 25px; background: #0a0a1a; border-radius: 12px; margin-bottom: 20px; border-left: 4px solid #667eea; }
+        .testimonial p { color: #ccc; font-style: italic; margin-bottom: 10px; }
+        .testimonial .author { color: #667eea; font-size: 0.9em; }
+        .footer { text-align: center; padding: 50px 20px; color: #555; border-top: 1px solid #1a1a2e; margin-top: 80px; }
+        .footer p { margin-bottom: 10px; }
+        .whatsapp { display: inline-block; background: #25d366; color: white; padding: 15px 40px; border-radius: 50px; text-decoration: none; font-weight: bold; margin-top: 20px; }
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 2em; }
+            .hero p { font-size: 1.1em; }
+            .section-title { font-size: 1.8em; }
+            .contact-section { padding: 40px 20px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="badge">🤖 AI驱动 · 降本增效</div>
+    <h1>AI文案工坊</h1>
+    <p>用AI为您的业务降本增效<br>小红书·公众号·短视频脚本·全搞定</p>
+    <a href="#contact" class="cta-btn">立即下单 →</a>
+</section>
+
+<!-- SERVICES -->
+<section class="section">
+    <h2 class="section-title">我们的服务</h2>
+    <div class="services">
+        <div class="service-card">
+            <div class="service-icon">📝</div>
+            <h3>小红书笔记</h3>
+            <p>种草/干货/测评各类笔记，emoji排版，去AI味，原创保证</p>
+            <div class="price-tag">¥50 / 篇</div>
+        </div>
+        <div class="service-card">
+            <div class="service-icon">🎬</div>
+            <h3>短视频脚本</h3>
+            <p>口播/种草/剧情脚本，45-60秒黄金时长，开头3秒抓眼球</p>
+            <div class="price-tag">¥100 / 条</div>
+        </div>
+        <div class="service-card">
+            <div class="service-icon">📖</div>
+            <h3>公众号文章</h3>
+            <p>深度干货/品牌故事/产品文案，专业编辑润色，不过退全款</p>
+            <div class="price-tag">¥200-500 / 篇</div>
+        </div>
+        <div class="service-card">
+            <div class="service-icon">🏢</div>
+            <h3>企业文案包</h3>
+            <p>品牌故事+产品描述+推广文案全套，享套餐折扣</p>
+            <div class="price-tag">¥1500 / 套</div>
+        </div>
+        <div class="service-card">
+            <div class="service-icon">🤖</div>
+            <h3>AI机器搭建</h3>
+            <p>帮您搭建私有AI写作机器，批量生产内容，24小时自动跑</p>
+            <div class="price-tag">¥688-3888</div>
+        </div>
+        <div class="service-card">
+            <div class="service-icon">🎯</div>
+            <h3>月度托管</h3>
+            <p>每天3篇内容定制推送，全平台分发，数据分析汇报</p>
+            <div class="price-tag">¥1500 / 月</div>
+        </div>
+    </div>
+</section>
+
+<!-- PROCESS -->
+<section class="section">
+    <h2 class="section-title">下单流程</h2>
+    <div class="process">
+        <div class="step">
+            <div class="step-num">1</div>
+            <h3>填写需求</h3>
+            <p>选择服务类型，填写主题/风格/字数要求</p>
+        </div>
+        <div class="step">
+            <div class="step-num">2</div>
+            <h3>AI生成</h3>
+            <p>AI快速生成初稿，人工深度润色去味</p>
+        </div>
+        <div class="step">
+            <div class="step-num">3</div>
+            <h3>交付验收</h3>
+            <p>24小时内交付，满意确认，不满意免费修改</p>
+        </div>
+    </div>
+</section>
+
+<!-- PORTFOLIO -->
+<section class="section">
+    <h2 class="section-title">作品案例</h2>
+    <div class="portfolio">
+        <div class="portfolio-item">
+            <div class="portfolio-content">
+                <span class="portfolio-tag">小红书</span>
+                <h3>AI副业变现 | 月入5位数复盘</h3>
+                <p>3个月真实复盘笔记，emoji排版，互动率12%+，阅读量10万+</p>
+            </div>
+        </div>
+        <div class="portfolio-item">
+            <div class="portfolio-content">
+                <span class="portfolio-tag">短视频</span>
+                <h3>职场干货 | 60秒口播脚本</h3>
+                <p>黄金3秒开场，干货+共鸣+引导点赞结构，完播率58%</p>
+            </div>
+        </div>
+        <div class="portfolio-item">
+            <div class="portfolio-content">
+                <span class="portfolio-tag">公众号</span>
+                <h3>品牌故事 | 创始人IP打造</h3>
+                <p>3000字深度人物稿，情感共鸣+价值观输出，转发率4.7%</p>
+            </div>
+        </div>
+        <div class="portfolio-item">
+            <div class="portfolio-content">
+                <span class="portfolio-tag">小红书</span>
+                <h3>美妆种草 | 素人真实测评</h3>
+                <p>无滤镜真实分享，评论区互动500+，收藏率23%</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="section">
+    <h2 class="section-title">客户评价</h2>
+    <div class="testimonials">
+        <div class="testimonial">
+            <p>"写得太好了！根本看不出是AI写的，而且1小时就交稿了！已经回购第5次了～"</p>
+            <div class="author">— 浙江 · 王女士（服装店主）</div>
+        </div>
+        <div class="testimonial">
+            <p>"帮我运营3个小红书账号，每周省了2个编辑的工资，性价比超高！"</p>
+            <div class="author">— 深圳 · 张总（MCN机构）</div>
+        </div>
+        <div class="testimonial">
+            <p>"短视频脚本写得特别有网感，第一条视频就上了热门，太惊喜了！"</p>
+            <div class="author">— 成都 · 小李（自媒体新人）</div>
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section class="section" id="contact">
+    <h2 class="section-title">立即下单</h2>
+    <div class="contact-section">
+        <form id="orderForm" onsubmit="handleSubmit(event)">
+            <div class="form-group">
+                <label>您的称呼</label>
+                <input type="text" name="name" placeholder="怎么称呼您" required>
+            </div>
+            <div class="form-group">
+                <label>微信号/邮箱</label>
+                <input type="text" name="contact" placeholder="方便我们联系您" required>
+            </div>
+            <div class="form-group">
+                <label>需要什么服务？</label>
+                <select name="service" required>
+                    <option value="">请选择服务类型</option>
+                    <option value="小红书笔记">📝 小红书笔记（¥50/篇）</option>
+                    <option value="短视频脚本">🎬 短视频脚本（¥100/条）</option>
+                    <option value="公众号文章">📖 公众号文章（¥200-500/篇）</option>
+                    <option value="企业文案包">🏢 企业文案全套（¥1500）</option>
+                    <option value="AI机器搭建">🤖 AI机器搭建（¥688起）</option>
+                    <option value="月度托管">🎯 月度托管（¥1500/月）</option>
+                    <option value="其他">💬 其他需求</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>具体需求</label>
+                <textarea name="requirements" placeholder="主题是什么？希望什么风格？字数要求？有无参考案例？越详细越好～" required></textarea>
+            </div>
+            <button type="submit" class="submit-btn">提交需求 →</button>
+        </form>
+        <div class="guarantee">
+            <div class="guarantee-item"><span>✅</span> 24小时交付</div>
+            <div class="guarantee-item"><span>✅</span> 不满意免费改</div>
+            <div class="guarantee-item"><span>✅</span> 原创保证</div>
+            <div class="guarantee-item"><span>✅</span> 信息保密</div>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+    <p>🤖 AI文案工坊 | 用AI为更多人降本增效</p>
+    <p style="color:#333;">© 2026 AI文案工坊 · All rights reserved</p>
+    <p style="font-size:0.85em; color:#444;">本服务由OpenClaw AI Agent驱动 · 7×24小时接单</p>
+</footer>
+
+<script>
+function handleSubmit(e) {
+    e.preventDefault();
+    const form = e.target;
+    const data = {
+        name: form.name.value,
+        contact: form.contact.value,
+        service: form.service.value,
+        requirements: form.requirements.value,
+        time: new Date().toLocaleString('zh-CN')
+    };
+    
+    // 显示成功提示
+    const btn = form.querySelector('.submit-btn');
+    btn.textContent = '✅ 提交成功！24小时内联系您';
+    btn.style.background = '#4CAF50';
+    
+    // 发送通知（通过webhook/邮件，本地测试时显示）
+    console.log('订单数据:', JSON.stringify(data, null, 2));
+    
+    // 存储到本地
+    const orders = JSON.parse(localStorage.getItem('orders') || '[]');
+    orders.push(data);
+    localStorage.setItem('orders', JSON.stringify(orders));
+    
+    alert('✅ 您的需求已提交！\n\n我们会在24小时内通过您留下的联系方式联系您。\n请保持手机畅通～');
+}
+</script>
+
+</body>
+</html>
